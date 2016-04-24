@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HERBLIST]]></title>
         <description><![CDATA[HERBLIST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/herblist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:04:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 06:08:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/herblist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WHY HERBLIST]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fce239a8-b152-45f3-aed6-da136e6ee06d.jpg">]]></description>
-            <link>undefinedwhy-herblist/index.html</link>
+            <link>https://thegrid.ai/herblist/why-herblist/index.html</link>
             <guid isPermaLink="false">127d0dd1-9c67-4f17-86fa-b5981819e592</guid>
-            <pubDate>Sun, 24 Apr 2016 06:04:51 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 06:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
